@@ -1,0 +1,9 @@
+.pdf-view {
+    max-width: 80% !important;
+    max-height: 250px !important;
+}
+.maxed {
+    max-height: 250px;
+    max-width: 100%;
+    min-height: 250px !important;
+}
