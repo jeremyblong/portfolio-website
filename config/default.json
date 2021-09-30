@@ -1,5 +1,5 @@
 {
     "wasabiAccessKey": "",
     "wasabiSecretKey": "",
-    "mongoURI": "mongodb+srv://jeremyblong:Jer$8246355abc123@db.lhjlz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": ""
 }
